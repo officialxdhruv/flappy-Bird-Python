@@ -1,0 +1,8 @@
+bg.png : 400 x 711
+ground.png :  400 x 133
+
+pipeup.png : 52 x 320
+pipedown.png : 52 x 320
+
+birdup.png : 34 x 24
+birddown.png : 34 x 24

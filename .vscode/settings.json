@@ -1,0 +1,8 @@
+{
+    "code-runner.executorMap": {
+        "python": "clear && python -u",
+    },
+    "cSpell.words": [
+        "blit"
+    ]
+}

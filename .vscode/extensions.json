@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "formulahendry.code-runner",
+        "ms-python.vscode-pylance",
+        "ms-python.debugpy",
+        "kevinrose.vsc-python-indent",
+        "pkief.material-icon-theme",
+        "christian-kohler.path-intellisense"
+    ]
+}
