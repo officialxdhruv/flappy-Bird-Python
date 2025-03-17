@@ -3,6 +3,7 @@
         "python": "clear && python -u",
     },
     "cSpell.words": [
-        "blit"
+        "blit",
+        "rects"
     ]
 }
