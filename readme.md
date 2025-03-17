@@ -1,5 +1,5 @@
-# 🎮 Pygame Project
-A simple game built using **Pygame**.
+# 🎮 flappy-Bird-Python Project
+A simple game built using **flappy-Bird-Python**.
 
 ## 📂 Project Structure
 ```
