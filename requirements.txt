@@ -1,0 +1,7 @@
+# cSpell:disable
+# pip freeze > requirements.txt
+# python -m venv myenv
+# source myenv/bin/activate   # (Windows: myenv\Scripts\activate)
+# pip install -r requirements.txt
+
+pygame==2.6.1
